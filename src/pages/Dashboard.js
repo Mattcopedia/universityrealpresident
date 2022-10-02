@@ -192,7 +192,7 @@ export default function Dashboard() {
 
                            <div className="flex justify-center text-6xl border-2  bg-gray-100 p-6 ">
                           
-                           <NavLink to="/register-student"> 
+                           <NavLink to="/upload-doc"> 
                            <WhiteFlexColumnRoot1>
                             <Image2 src={`https://file.rendit.io/n/5tWY56uqSBbFAO6jLaEl.svg`} />
                             <Text2>Result Upload</Text2>
